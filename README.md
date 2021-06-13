@@ -20,6 +20,14 @@ E-mail: <cssxsh@gmail.com>
 [![Release](https://img.shields.io/github/v/release/cssxsh/bilibili-helper)](https://github.com/cssxsh/bilibili-helper/releases)
 [![Release](https://img.shields.io/github/downloads/cssxsh/bilibili-helper/total)](https://shields.io/category/downloads)
 
+## BiliBili Helper
+[![Release](https://img.shields.io/github/v/release/cssxsh/bilibili-helper)](https://github.com/cssxsh/bilibili-helper/releases)
+[![Release](https://img.shields.io/github/downloads/cssxsh/bilibili-helper/total)](https://shields.io/category/downloads)
+
+## AntiPorn Plugin
+[![Release](https://img.shields.io/github/v/release/gnuf0rce/Mirai-AntiPorn-Plugin)](https://github.com/gnuf0rce/Mirai-AntiPorn-Plugin/releases)
+[![Release](https://img.shields.io/github/downloads/gnuf0rce/Mirai-AntiPorn-Plugin/total)](https://shields.io/category/downloads)
+
 
 ![Karlatemp's github stats](https://github-readme-stats.vercel.app/api?username=cssxsh&show_icons=true&theme=tokyonight)
 
