@@ -18,7 +18,10 @@ E-mail: <cssxsh@gmail.com>
 [![Release](https://img.shields.io/github/v/release/cssxsh/bilibili-helper)](https://github.com/cssxsh/bilibili-helper/releases)  
 * AntiPorn Plugin 
 [![Release](https://img.shields.io/github/downloads/gnuf0rce/Mirai-AntiPorn-Plugin/total)](https://github.com/gnuf0rce/Mirai-AntiPorn-Plugin/)
-[![Release](https://img.shields.io/github/v/release/cssxsh/Mirai-AntiPorn-Plugin)](https://github.com/cssxsh/Mirai-AntiPorn-Plugin/releases)  
+[![Release](https://img.shields.io/github/v/release/gnuf0rce/Mirai-AntiPorn-Plugin)](https://github.com/gnuf0rce/Mirai-AntiPorn-Plugin/releases)  
+* Rss Helper
+[![Release](https://img.shields.io/github/downloads/gnuf0rce/Mirai-AntiPorn-Plugin/total)](https://github.com/gnuf0rce/rss-helper/)
+[![Release](https://img.shields.io/github/v/release/gnuf0rce/Mirai-AntiPorn-Plugin)](https://github.com/gnuf0rce/rss-helper/releases)  
 
 
 ![cssxsh's github stats](https://github-readme-stats.vercel.app/api?username=cssxsh&show_icons=true&theme=tokyonight)
