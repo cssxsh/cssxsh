@@ -4,7 +4,8 @@ I'm a loser.
 
 # Contact Me
 
-E-mail: <cssxsh@gmail.com>
+E-mail: <cssxsh@gmail.com>  
+QQ: [1438159989](https://wpa.qq.com/msgrd?v=3&uin=1438159989&site=qq&menu=yes)
 
 # Mirai Console Plugin
 * Arknights Helper 
