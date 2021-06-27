@@ -8,20 +8,25 @@ E-mail: <cssxsh@gmail.com>
 QQ: [1438159989](https://wpa.qq.com/msgrd?v=3&uin=1438159989&site=qq&menu=yes)
 
 # Mirai Console Plugin
-* Arknights Helper 
-[![Release](https://img.shields.io/github/downloads/cssxsh/arknights-helper/total)](https://github.com/cssxsh/arknights-helper/)
+* [Arknights Helper](https://github.com/cssxsh/arknights-helper/)  
+![Stars](https://img.shields.io/github/stars/cssxsh/arknights-helper)
+![Downloads](https://img.shields.io/github/downloads/cssxsh/arknights-helper/total)
 [![Release](https://img.shields.io/github/v/release/cssxsh/arknights-helper)](https://github.com/cssxsh/arknights-helper/releases) 
-* Weibo Helper 
-[![Release](https://img.shields.io/github/downloads/cssxsh/weibo-helper/total)](https://github.com/cssxsh/weibo-helper/)
+* [Weibo Helper](https://github.com/cssxsh/weibo-helper/)  
+![Stars](https://img.shields.io/github/stars/cssxsh/weibo-helper)
+![Downloads](https://img.shields.io/github/downloads/cssxsh/weibo-helper/total)
 [![Release](https://img.shields.io/github/v/release/cssxsh/weibo-helper)](https://github.com/cssxsh/weibo-helper/releases) 
-* BiliBili Helper 
-[![Release](https://img.shields.io/github/downloads/cssxsh/bilibili-helper/total)](https://github.com/cssxsh/bilibili-helper/)
+* [BiliBili Helper](https://github.com/cssxsh/bilibili-helper)  
+![Stars](https://img.shields.io/github/stars/cssxsh/bilibili-helper)
+![Downloads](https://img.shields.io/github/downloads/cssxsh/bilibili-helper/total)
 [![Release](https://img.shields.io/github/v/release/cssxsh/bilibili-helper)](https://github.com/cssxsh/bilibili-helper/releases)  
-* AntiPorn Plugin 
-[![Release](https://img.shields.io/github/downloads/gnuf0rce/Mirai-AntiPorn-Plugin/total)](https://github.com/gnuf0rce/Mirai-AntiPorn-Plugin/)
+* [AntiPorn Plugin](https://github.com/gnuf0rce/Mirai-AntiPorn-Plugin)  
+![Stars](https://img.shields.io/github/stars/gnuf0rce/Mirai-AntiPorn-Plugin)
+![Downloads](https://img.shields.io/github/downloads/gnuf0rce/Mirai-AntiPorn-Plugin/total)
 [![Release](https://img.shields.io/github/v/release/gnuf0rce/Mirai-AntiPorn-Plugin)](https://github.com/gnuf0rce/Mirai-AntiPorn-Plugin/releases)  
-* Rss Helper
-[![Release](https://img.shields.io/github/downloads/gnuf0rce/rss-helper/total)](https://github.com/gnuf0rce/rss-helper/)
+* [Rss Helper](https://github.com/gnuf0rce/rss-helper)  
+![Stars](https://img.shields.io/github/stars/gnuf0rce/rss-helper)
+![Downloads](https://img.shields.io/github/downloads/gnuf0rce/rss-helper/total)
 [![Release](https://img.shields.io/github/v/release/gnuf0rce/rss-helper)](https://github.com/gnuf0rce/rss-helper/releases)  
 
 
