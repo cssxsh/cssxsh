@@ -8,6 +8,11 @@ E-mail: <cssxsh@gmail.com>
 QQ: [1438159989](https://wpa.qq.com/msgrd?v=3&uin=1438159989&site=qq&menu=yes)
 
 # Mirai Console Plugin
+* [Pixiv Helper](https://github.com/cssxsh/pixiv-helper/)  
+[![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net/topic/289)
+![Stars](https://img.shields.io/github/stars/cssxsh/pixiv-helper)
+![Downloads](https://img.shields.io/github/downloads/cssxsh/pixiv-helper/total)
+[![Release](https://img.shields.io/github/v/release/cssxsh/pixiv-helper)](https://github.com/cssxsh/pixiv-helper/releases)  
 * [Arknights Helper](https://github.com/cssxsh/arknights-helper/)  
 [![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net/topic/203)
 ![Stars](https://img.shields.io/github/stars/cssxsh/arknights-helper)
