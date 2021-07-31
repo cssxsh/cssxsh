@@ -38,13 +38,11 @@ QQ: [1438159989](https://wpa.qq.com/msgrd?v=3&uin=1438159989&site=qq&menu=yes)
 ![Stars](https://img.shields.io/github/stars/gnuf0rce/rss-helper)
 ![Downloads](https://img.shields.io/github/downloads/gnuf0rce/rss-helper/total)
 [![Release](https://img.shields.io/github/v/release/gnuf0rce/rss-helper)](https://github.com/gnuf0rce/rss-helper/releases)  
-<!---
-* [Twitter Helper](https://github.com/cssxsh/twitter-helper/)  
-[![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net/topic/366)
-![Stars](https://img.shields.io/github/stars/cssxsh/twitter-helper)
-![Downloads](https://img.shields.io/github/downloads/cssxsh/twitter-helper/total)
-[![Release](https://img.shields.io/github/v/release/cssxsh/twitter-helper)](https://github.com/cssxsh/twitter-helper/releases)  
--->
+* [Debug Helper](https://github.com/gnuf0rce/debug-helper)  
+[![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net/topic/452)
+![Stars](https://img.shields.io/github/stars/gnuf0rce/debug-helper)
+![Downloads](https://img.shields.io/github/downloads/gnuf0rce/debug-helper/total)
+[![Release](https://img.shields.io/github/v/release/gnuf0rce/debug-helper)](https://github.com/gnuf0rce/debug-helper/releases)  
 
 
 ![cssxsh's github stats](https://github-readme-stats.vercel.app/api?username=cssxsh&show_icons=true&theme=tokyonight)
