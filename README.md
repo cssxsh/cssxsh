@@ -42,7 +42,7 @@ E-mail: <cssxsh@gmail.com>
 ![Stars](https://img.shields.io/github/stars/gnuf0rce/debug-helper)
 ![Downloads](https://img.shields.io/github/downloads/gnuf0rce/debug-helper/total)
 [![Release](https://img.shields.io/github/v/release/gnuf0rce/debug-helper)](https://github.com/gnuf0rce/debug-helper/releases)  
-* [Github Helper](https://github.com/gnuf0rce/github-helper)  
+* [GitHub Helper](https://github.com/gnuf0rce/github-helper)  
 [![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net/topic/554)
 ![Stars](https://img.shields.io/github/stars/gnuf0rce/github-helper)
 ![Downloads](https://img.shields.io/github/downloads/gnuf0rce/github-helper/total)
