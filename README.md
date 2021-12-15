@@ -27,7 +27,7 @@ E-mail: <cssxsh@gmail.com>
 ![Stars](https://img.shields.io/github/stars/cssxsh/bilibili-helper)
 ![Downloads](https://img.shields.io/github/downloads/cssxsh/bilibili-helper/total)
 [![Release](https://img.shields.io/github/v/release/cssxsh/bilibili-helper)](https://github.com/cssxsh/bilibili-helper/releases)  
-* [mirai-content-censor](https://github.com/gnuf0rce/mirai-content-censor)  
+* [Mirai Content Censor](https://github.com/gnuf0rce/mirai-content-censor)  
 [![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net/topic/293)
 ![Stars](https://img.shields.io/github/stars/gnuf0rce/mirai-content-censor)
 ![Downloads](https://img.shields.io/github/downloads/gnuf0rce/mirai-content-censor/total)
