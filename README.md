@@ -1,6 +1,6 @@
 # Hi, This is cssxsh?
 
-I'm a loser.
+I'm looking for a job.
 
 # Contact Me
 
